@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scipy
+scikit-learn
+statsmodels
+arch
+PyPortfolioOpt
+yfinance
+openpyxl
+jupyterlab
